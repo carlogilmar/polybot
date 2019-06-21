@@ -1,0 +1,9 @@
+/elixir_polybot/_build/
+/elixir_polybot/cover/
+/elixir_polybot/deps/
+/elixir_polybot/doc/
+/elixir_polybot/.fetch
+/elixir_polybot/erl_crash.dump
+/elixir_polybot/*.ez
+/elixir_polybot/polybot-*.tar
+
