@@ -28,6 +28,6 @@ defmodule Polybot.Util do
     List.replace_at(matrix, x, new_row)
   end
 
-  def update_row(row, index), do: List.replace_at(row, index, @point)
+  defp update_row(row, index), do: List.replace_at(row, index, @point)
 
 end
